@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @killer-bot
+- 👋 Hi, I’m @Kumar Anmol
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning c/python/java/html
 - 💞️ I’m looking to collaborate on project
